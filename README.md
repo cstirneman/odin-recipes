@@ -1,1 +1,1 @@
-# odin-recipes
+This project is titled recipes
